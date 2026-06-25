@@ -18,9 +18,7 @@ Founding engineer by trade. Guitarist, music curator, and certified cat dad to L
 
 ### The stack I reach for
 
-`Python` `TypeScript` `FastAPI` `Next.js` `React`
-Voice AI · LLM orchestration · MCP · RAG · real-time systems
-`Docker` `GCP` `Cloud Run` `CI/CD`
+`Python` · `TypeScript` · `FastAPI` · `Next.js` · `React` · `Voice AI` · `LLM orchestration` · `AI Agents` · `RAG` · `real-time systems` · `Docker` · `GCP` · `Cloud Run` · `CI/CD`
 
 ---
 
