@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hey, I'm Pushkar 👋
 
-<!--
-**the-pushh/the-pushh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build AI products that feel like objects with a personality. Voice agents, characterful interfaces, the stuff that makes software feel alive instead of just functional.
 
-Here are some ideas to get you started:
+Founding engineer by trade. Guitarist, music curator, and certified cat dad to Lenon by everything else.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌐 **[thepushh.com](https://thepushh.com)** — portfolio, writing, and the rest of me
+
+---
+
+### What I'm building
+
+**🎙️ CallMe** — a real-time outbound voice AI agent that calls you and talks back in under a second. Built the whole pipeline from scratch (STT → LLM → TTS), 6 personas with an emotion-tag system, and clever filler words to mask think-time and keep it feeling human. Live in production on GCP.
+
+**📥 LifeOffline** — scraped and structured 2,300+ Instagram saves into a clean, LLM-ready corpus. A 3-stage media pipeline with on-device Whisper transcription and real-time progress over WebSocket.
+
+---
+
+### The stack I reach for
+
+`Python` `TypeScript` `FastAPI` `Next.js` `React`
+Voice AI · LLM orchestration · MCP · RAG · real-time systems
+`Docker` `GCP` `Cloud Run` `CI/CD`
+
+---
+
+### Off the clock
+
+I run **Polyjamorous**, a genre-fluid music curation thing. 70s rock, grunge, vinyl, and one day a record store with a listening lounge. I read philosophy, write the occasional poem, and dress like Laurel Canyon met a 90s mosh pit.
+
+Let's build something with character.
+
+📫 [me@thepushh.com](mailto:me@thepushh.com) · [LinkedIn](https://linkedin.com/in/the-pushh) · [Twitter](https://twitter.com/the_pushh)
